@@ -1,13 +1,5 @@
 hola, primera linea del documento
 ahora agrego desde la web
 
-agregamos tercera linea en repo local
-
-hola, tercera linea en web, genero confli
-
-
-ahora agrego una cuarta
-agrego una quinta en local
-
-agrego una quinta en web
+borre todo en web
 
